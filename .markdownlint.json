@@ -1,0 +1,6 @@
+{
+  "_comment": "Ignore these, they don't fit our style",
+  "line-length": false,
+  "no-duplicate-heading": false,
+  "no-inline-html": false
+}
